@@ -1,0 +1,10 @@
+<!-- res/drawable/border_bg.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <corners android:radius="4dp"
+         />
+    <solid android:color="#B6D0E2" />
+    <stroke
+        android:id="@+id/strokeId"
+        android:width="1.5dp"
+    android:color="#4CAF50" />
+</shape>

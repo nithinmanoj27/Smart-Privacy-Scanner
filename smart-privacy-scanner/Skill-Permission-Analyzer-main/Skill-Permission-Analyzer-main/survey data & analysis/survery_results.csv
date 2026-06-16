@@ -1,0 +1,41 @@
+Q1,Q2,Q3,Q4,Q5
+Name,Phone Type,Select the permissions accessed by Amazon App in your phone,Select the permissions accessed by Instagram App in your phone,Select the permissions accessed by Moodle App in your phone
+"{""ImportId"":""QID1_TEXT""}","{""ImportId"":""QID9""}","{""ImportId"":""QID4""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}"
+Kalyan,Iphone,Location,"Location,Camera,Contacts,Microphone",External Storage
+Akruti,Android,"Location,Access Files or Storage,Microphone","Location,Bluetooth,Camera,Contacts,Microphone",Location
+Priya Andurkar,Android,Location,"Location,Camera,External Storage,Microphone",Location
+Shreya Reddy,Iphone,Location,"Location,Camera,Contacts,External Storage,Phone App(Call App),Microphone","External Storage,Settings of Phone"
+Deepika,Iphone,"Location,Camera,Access Files or Storage","Location,Bluetooth,Camera,Contacts,External Storage,Phone App(Call App),Microphone","Location,Microphone,Settings of Phone"
+"Vamsy Vaishnavi Kolluru ",Android,Location,"Location,Camera,Contacts,Microphone","Microphone,Settings of Phone"
+Vettel,Android,Location,Phone App(Call App),Settings of Phone
+"Mahathi ",Iphone,"Contacts,Access Files or Storage,Microphone","Bluetooth,Camera,External Storage,Microphone","Location,Contacts,Microphone"
+Anuradha,Iphone,Location,Location,Location
+"Kranthi Varma Ankathi ",Android,Location,Microphone,Location
+Akshet,Android,Location,"Location,Camera,External Storage,Phone App(Call App),Microphone",External Storage
+"Meenakshy Ganesan ",Android,Location,"Location,Camera,External Storage",Settings of Phone
+"Karthik ",Android,"Location,Camera,Contacts,Access Files or Storage,Microphone","Location,Camera,Contacts,Calender,Phone App(Call App),Microphone","Location,Camera"
+Rasagna,Iphone,"Location,Camera","Location,Camera,Microphone",Location
+Mithila,Iphone,"Location,Camera","Location,Camera,Microphone","Location,External Storage"
+Vineeth,Android,"Location,Camera,Access Files or Storage","Location,Camera,Contacts,External Storage,Microphone","Location,External Storage"
+Sahithi,Iphone,"Location,Microphone","Location,Camera,External Storage,Microphone",External Storage
+Roshni,Android,"Location,Camera,Contacts","Location,Camera,Contacts,Phone App(Call App),Microphone",Location
+Jackson,Android,Location,"Location,Camera,External Storage,Microphone",Location
+Rahul,Iphone,"Contacts,Access Files or Storage,Microphone","Bluetooth,Camera,External Storage,Microphone","Location,Contacts,Microphone"
+Kabir,Android,"Location,Camera,Contacts,Access Files or Storage,Microphone","Location,Camera,Contacts,Calender,Phone App(Call App),Microphone","Location,Camera"
+Anaya Deshmukh,Android,Location,"Location,Camera,External Storage",Settings of Phone
+Aisha,Android,Location,"Location,Camera,External Storage,Phone App(Call App),Microphone",External Storage
+Nandini,Android,"Location,Access Files or Storage,Microphone","Location,Bluetooth,Camera,Contacts,Microphone",Location
+Ishita,Iphone,Location,"Location,Camera,Contacts,External Storage,Phone App(Call App),Microphone","External Storage,Settings of Phone"
+Sophia,Android,"Location,Access Files or Storage,Microphone","Location,Bluetooth,Camera,Contacts,Microphone",Location
+Arjun Patel,Android,Location,"Location,Camera,External Storage,Microphone",Location
+Ravi,Iphone,"Location,Camera,Access Files or Storage","Location,Bluetooth,Camera,Contacts,External Storage,Phone App(Call App),Microphone","Location,Microphone,Settings of Phone"
+Meenakshy Ganesan,Android,Location,"Location,Camera,External Storage",Settings of Phone
+Liam,Android,Location,"Location,Camera,Contacts,Microphone",External Storage
+Olivia,Iphone,"Location,Camera,Access Files or Storage","Location,Bluetooth,Camera,Contacts,External Storage,Phone App(Call App),Microphone","Location,Microphone,Settings of Phone"
+Priya,Iphone,Location,Location,Location
+Emma,Iphone,Location,"Location,Camera,Contacts,External Storage,Phone App(Call App),Microphone","External Storage,Settings of Phone"
+Aarav,Android,Location,"Location,Camera,Contacts,Microphone",External Storage
+Aryan Sharma,Android,Location,"Location,Camera,Contacts,Microphone","Microphone,Settings of Phone"
+Akshet,Android,Location,"Location,Camera,External Storage,Phone App(Call App),Microphone",External Storage
+Aditi,Android,Location,Phone App(Call App),Settings of Phone
+Rohan Gupta,Android,Location,Microphone,Location
