@@ -59,4 +59,5 @@ Our motivation stems from three key aspects:
 - **Integration with TrackerControl**: Enhance user privacy by integrating with privacy-focused tools like TrackerControl.
 
 ## App Screenshots
+<img width="1080" height="2232" alt="IMG_20260616_161931 jpg" src="https://github.com/user-attachments/assets/383d116f-2c5f-4ad2-90b5-b216747a36fe" />
 
